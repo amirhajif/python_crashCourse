@@ -13,11 +13,16 @@ All of the written codes exist in this repositry from session1 to session13
 
 
 # 📝What is said in each session
-- Session1 :  Variables - Variables Naming - Print
-- Session2 :  Arithmetic operators - Assignment Operators - Input
-- Session3 :  Conditions - if/else - elif - Comparison Operators  
-- Session4 :  ShortHand if...else - Logical Operators - Nested Conditions - Pass
-- Session5 :  Loops - While Loop - Break - Continue - For loop - Range
-- Session6 :  List - List Method - For usage in list
-- Session7 :  Dictionary - Dictionary Method - For usage in Dictionary
-- Session8 :  Function - Function Definition - Function Call - Function Arguman - 
+- Session 1 :  Variables - Variables Naming - Print (12 min)
+- Session 2 :  Arithmetic operators - Assignment Operators - Input (9 min)
+- Session 3 :  Conditions - if/else - elif - Comparison Operators  (11 min)
+- Session 4 :  ShortHand if...else - Logical Operators - Nested Conditions - Pass (9 min)
+- Session 5 :  Loops - While Loop - Break - Continue - For loop - Range (8 min)
+- Session 6 :  List - List Method - For usage in list (13 min)
+- Session 7 :  Dictionary - Dictionary Method - For usage in Dictionary (14 min) 
+- Session 8 :  Function - Function Definition - Function Call - Function Arguman - Arguman Default Value - Return - Recursive Function (18 min)
+- Session 9 :  Lambda - Lambda in Function (5 min)
+- Session 10 : OOP - Class - Instance(Object) - Attribute - Method - Self in Method (13 min)
+- Session 11 : Constructor(--init()--) - Class Attribute (13 min)
+- Session 12 : Setter & Getter (7 min)
+- Session 13 : Inheritance - Inheritance Models - Constructor in Inheritance (11 min)
