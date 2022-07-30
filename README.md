@@ -5,6 +5,10 @@
 
 An usefull course for learning python with basic and advance topics (In the following, we refer to these topics)
 
+# Watch CrashCourse on YouTube
+[![python CrashCourse](https://user-images.githubusercontent.com/58939938/181917076-3bf26a51-1cad-4e29-8dc6-099e5b56ef41.png)](https://www.youtube.com/watch?v=UmRh0-hATMo)
+
+
 # ⚡Crash Course Time
 All of the time need for learning python with this crash course is almost two and a half hours
 
